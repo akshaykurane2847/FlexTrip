@@ -1,0 +1,122 @@
+{
+    "Mumbai": {
+        "temperature": 30,
+        "humidity": 80,
+        "wind_speed": 12,
+        "packages": {
+            "basic": 5000,
+            "premium": 10000,
+            "luxury": 15000
+        }
+    },
+    "Pune": {
+        "temperature": 25,
+        "humidity": 60,
+        "wind_speed": 10,
+        "packages": {
+            "basic": 4000,
+            "premium": 8000,
+            "luxury": 12000
+        }
+    },
+    "Nagpur": {
+        "temperature": 35,
+        "humidity": 40,
+        "wind_speed": 15,
+        "packages": {
+            "basic": 4500,
+            "premium": 9000,
+            "luxury": 14000
+        }
+    },
+    "Aurangabad": {
+        "temperature": 32,
+        "humidity": 50,
+        "wind_speed": 8,
+        "packages": {
+            "basic": 4700,
+            "premium": 9500,
+            "luxury": 13000
+        }
+    },
+    "Nashik": {
+        "temperature": 28,
+        "humidity": 65,
+        "wind_speed": 9,
+        "packages": {
+            "basic": 4200,
+            "premium": 8500,
+            "luxury": 12500
+        }
+    },
+    "Kolhapur": {
+        "temperature": 29,
+        "humidity": 70,
+        "wind_speed": 11,
+        "packages": {
+            "basic": 4600,
+            "premium": 9000,
+            "luxury": 13500
+        }
+    },
+    "Solapur": {
+        "temperature": 37,
+        "humidity": 35,
+        "wind_speed": 14,
+        "packages": {
+            "basic": 4900,
+            "premium": 10500,
+            "luxury": 14500
+        }
+    },
+    "Jalgaon": {
+        "temperature": 34,
+        "humidity": 45,
+        "wind_speed": 13,
+        "packages": {
+            "basic": 4800,
+            "premium": 10000,
+            "luxury": 14000
+        }
+    },
+    "Latur": {
+        "temperature": 33,
+        "humidity": 55,
+        "wind_speed": 12,
+        "packages": {
+            "basic": 4700,
+            "premium": 9500,
+            "luxury": 13000
+        }
+    },
+    "Ratnagiri": {
+        "temperature": 27,
+        "humidity": 85,
+        "wind_speed": 7,
+        "packages": {
+            "basic": 5000,
+            "premium": 10500,
+            "luxury": 15000
+        }
+    },
+    "Satara": {
+        "temperature": 31,
+        "humidity": 60,
+        "wind_speed": 10,
+        "packages": {
+            "basic": 4500,
+            "premium": 9000,
+            "luxury": 14000
+        }
+    },
+    "Parbhani": {
+        "temperature": 36,
+        "humidity": 40,
+        "wind_speed": 16,
+        "packages": {
+            "basic": 4900,
+            "premium": 11000,
+            "luxury": 15000
+        }
+    }
+}
